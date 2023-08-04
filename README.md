@@ -11,4 +11,4 @@ Developed a webpage using React, Coingecko as an API, and Recharts for plotting 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
